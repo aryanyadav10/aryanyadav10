@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Yadav</h1>
 <h3 align="center">I am a Front-End Developer.</h3>
 
-- 🌱 I’m currently learning **Javascript**.
+- 🌱 I’m currently learning **Full Stack Development**.
 
 - 📫 How to reach me **yadavaryan2003@gmail.com**
 
